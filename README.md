@@ -11,7 +11,7 @@ htmlx validate documents/status-review-deck.htmlx --json
 
 The pull request gate validates every `.htmlx` package under `documents/`.
 This repository has been checked with the OpenWebDoc pull-request validation
-gate using `v0.1.0-alpha.2`.
+gate using `v0.1.0-alpha.3`.
 
 ## Review Boundary
 
